@@ -1,0 +1,21 @@
+{
+  "name": "cse_15_fsd_274",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aprajitamall/CSE_15_FSD_274.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aprajitamall/CSE_15_FSD_274/issues"
+  },
+  "homepage": "https://github.com/aprajitamall/CSE_15_FSD_274#readme"
+}
